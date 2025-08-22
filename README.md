@@ -1,5 +1,7 @@
 # ☕ Primeiros Contatos com Java
 
+<img src="img-java/img-1.png" alt="App Screenshot" width="100%" height="450"/>
+
 Este repositório foi criado durante meus primeiros contatos com a linguagem **Java** na faculdade.  
 Aqui estão armazenados exercícios e pequenos projetos que marcaram o início do meu aprendizado na programação com Java.  
 
