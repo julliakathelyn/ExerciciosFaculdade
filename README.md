@@ -15,7 +15,9 @@ Os arquivos estão organizados por exercícios, cada um explorando conceitos fun
 - Exercicio1  
 - Exercicio1A  
 - Exercicio2  
-- Exercicio2Joao  
+- Exercicio2Joao
+- Exercicio4  
+- Exercicio5
 
 ### 🔹 Estruturas Condicionais
 - Exercicio3JoaoMaiorDeIdade  
@@ -38,8 +40,7 @@ Os arquivos estão organizados por exercícios, cada um explorando conceitos fun
 - ExercicioFor  
 
 ### 🔹 Outros
-- Exercicio4  
-- Exercicio5  
+  
 - bolinhadegolfe  
 
 ---
