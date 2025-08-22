@@ -18,6 +18,7 @@ Os arquivos estão organizados por exercícios, cada um explorando conceitos fun
 - Exercicio2Joao
 - Exercicio4  
 - Exercicio5
+- bolinhadegolfe
 
 ### 🔹 Estruturas Condicionais
 - Exercicio3JoaoMaiorDeIdade  
@@ -39,24 +40,20 @@ Os arquivos estão organizados por exercícios, cada um explorando conceitos fun
 ### 🔹 Laços de Repetição
 - ExercicioFor  
 
-### 🔹 Outros
-  
-- bolinhadegolfe  
-
 ---
 
 ## 🚀 Objetivo
 
 - Documentar os primeiros passos com Java.  
 - Praticar lógica de programação.  
-- Consolidar conceitos fundamentais de **condicionais**, **loops** e **estruturas básicas da linguagem**.  
+- Consolidar conceitos fundamentais de **condicionais**, **loops** e **estruturas básicas da linguagem**. 
 
 ---
 
 ## 📖 Próximos Passos
 
-- Aprimorar a organização dos exercícios.  
-- Revisar códigos antigos aplicando boas práticas aprendidas posteriormente.  
+- Aprimorar a organização dos exercícios.
+- Melhorar a lógica em programação.
 - Criar novos projetos explorando **POO (Programação Orientada a Objetos)**.  
 
 ---
